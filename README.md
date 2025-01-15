@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a 30 y/o aspiring developer from The Netherlan
 
 ## 🌟 Current Projects
 
-### [Artale World Coin Merchant Calculator](https://github.com/or1n/Artale-WC-Merch-Calc)
+### [MapleStory Artale World Coin Merchant Calculator](https://github.com/or1n/Artale-WC-Merch-Calc)
 A comprehensive calculator tool for MapleStory Artale server merchants. Analyze WC, exchange rates, calculate profit margins, track price history, and optimize trading decisions.
 
 ### [YouTube Quick Navigation Buttons](https://github.com/or1n/YouTube-Quick-Navigation-Buttons)
