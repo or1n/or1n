@@ -25,7 +25,7 @@ A userscript to filter YouTube videos based on view count and duration, enhancin
 ### Smart Home Projects
 Developed smart home solutions with lights, Google Assistant, motion sensors, and security cameras using Google Script Writer and YAWL.
 
-###Game Automation
+### Game Automation
 Created macros, automations, buttons, and triggers in games using C++ scripts. Developed scripts to display icons for missing buffs, invisible buttons for skill casting, and interface aids for skill procs.
 
 ### Arduino Projects
