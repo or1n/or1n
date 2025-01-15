@@ -20,19 +20,32 @@ A userscript to filter YouTube videos based on view count and duration, enhancin
 - **Tools**: Git, GitHub, ViolentMonkey, Visual Studio Code
 - **Other**: UserScript development, UI/UX design, Graphic Design, Photography
 
+## 🔧 Experience
+
+### Smart Home Projects
+Developed smart home solutions with lights, Google Assistant, motion sensors, and security cameras using Google Script Writer and YAWL.
+
+###Game Automation
+Created macros, automations, buttons, and triggers in games using C++ scripts. Developed scripts to display icons for missing buffs, invisible buttons for skill casting, and interface aids for skill procs.
+
+### Arduino Projects
+Built a robot in C++ that navigates like a robotic vacuum cleaner, using motion sensors to detect walls and wheels for movement, with direction indicators and voice commands.
+
+### Game Hacking
+Started hacking games at an early age, using packet editors and developing scripts using assembler in Cheat Engine.
+
+### Private Servers
+Created private servers coded in C++ and Java, including custom items, monsters, and NPCs. Developed websites with HTML and MySQL databases.
+
+### Adobe Flash Games
+Created animations and 2D side-scroll games in Adobe Flash (Macromedia Flash) using Actionscript.
+
+### Web Development
+Developed and edited websites with HTML during my studies. Created applications with Adobe XD.
+
 ## 📈 GitHub Stats
 
 ![Orin's GitHub stats](https://github-readme-stats.vercel.app/api?username=or1n&show_icons=true&theme=radical)
-
-## 🔧 Experience
-
-- **Smart Home Projects**: Developed smart home solutions with lights, Google Assistant, motion sensors, and security cameras using Google Script Writer and YAWL.
-- **Game Automation**: Created macros, automations, buttons, and triggers in games using C++ scripts. Developed scripts to display icons for missing buffs, invisible buttons for skill casting, and interface aids for skill procs.
-- **Arduino Projects**: Built a robot in C++ that navigates like a robotic vacuum cleaner, using motion sensors to detect walls and wheels for movement, with direction indicators and voice commands.
-- **Game Hacking**: Started hacking games at an early age, using packet editors and developing scripts using assembler in Cheat Engine.
-- **Private Servers**: Created private servers coded in C++ and Java, including custom items, monsters, and NPCs. Developed websites with HTML and MySQL databases.
-- **Adobe Flash Games**: Created animations and 2D side-scroll games in Adobe Flash (Macromedia Flash) using Actionscript.
-- **Web Development**: Developed and edited websites with HTML during my studies. Created applications with Adobe XD.
 
 <!---
 or1n/or1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
