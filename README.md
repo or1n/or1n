@@ -4,20 +4,13 @@ Welcome to my GitHub profile! I'm a 30 y/o aspiring developer from The Netherlan
 
 ## 🌟 Current Projects
 
-### [MapleStory Artale World Coin Merchant Calculator](https://github.com/or1n/Artale-WC-Merch-Calc)
-A comprehensive calculator tool for MapleStory Artale server merchants. Analyze WC, exchange rates, calculate profit margins, track price history, and optimize trading decisions.
-
-### [YouTube Quick Navigation Buttons](https://github.com/or1n/YouTube-Quick-Navigation-Buttons)
-Adds customizable quick navigation buttons to the YouTube header, with support for dark mode, keyboard shortcuts, and a dropdown menu for additional buttons.
-
-### [YouTube View and Duration Filter](https://github.com/or1n/YouTube-View-and-Duration-Filter)
-A userscript to filter YouTube videos based on view count and duration, enhancing your browsing experience.
+x
 
 ## 🛠 Skills
 
 - **Languages**: Python & JavaScript
 - **Frameworks**: PyQt6
-- **Tools**: Git, GitHub, ViolentMonkey, Visual Studio Code
+- **Tools**: Git, GitHub, Tampermonkey, Visual Studio Code
 - **Other**: UserScript development, UI/UX design, Graphic Design, Photography
 
 ## 🔧 Experience
