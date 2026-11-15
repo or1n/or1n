@@ -34,6 +34,7 @@ Designer, engineer and photographer from the Netherlands. I work across graphic 
 | Period | What |
 |---|---|
 | **2026 – now** | Data management and engineering, business operations |
+| **2018 – now** | Coding and automation: Python, C#, C, JavaScript, CSS, PowerShell and CMD scripts, VBA for Office, Adobe CC and Autodesk scripting. Desktop apps (WinUI 3, PyQt6), web apps, userscripts and AutoHotkey |
 | **2024 – now** | CAD and BIM: AutoCAD and Revit, Dynamo, families and nested families. Certified from basic to expert in Building Engineering and Building Services Engineering. 3D printing: designs, iterations and real-life parts |
 | **2020 – now** | Android rooting and mobile security research: bootloader unlocking, custom recovery, boot image patching, Magisk (systemless root, modules), Zygisk, LSPosed, Play Integrity. Linux-based root workflows with adb and fastboot |
 | **2018 – now** | Smart home: Google Apps Script, YAML automations, sensors, lights, cameras and security |
@@ -42,7 +43,7 @@ Designer, engineer and photographer from the Netherlands. I work across graphic 
 | **2006 – now** | Web development: HTML, CSS, then modern front-end (responsive layouts, CSS variables, dark mode, ES modules, TypeScript) |
 | **2005 – 2011** | Private servers for classic MMORPGs: creating and editing multiple versions. SQL databases for accounts, login and rankings. Custom NPCs, items and mobs. Front-end and back-end (full stack) in C++, Java, HTML and MySQL |
 | **2005 – 2009** | Flash games: side-scrolling 2D action, survival and fighting games in ActionScript. Own sprites, and functions for walking, jumping, items, inventory, health and combat |
-| **2002 – 2013** | Game automation and reverse engineering: Cheat Engine CT tables and codes, finding and changing game values, hotkeys, macros, bots and in-game overlays for buffs and cooldowns |
+| **2002 – 2013** | Game automation and reverse engineering: Cheat Engine CT tables and codes, memory scanning, pointer chains, code injection, code caves, function hooking, x86 assembly patching, packet analysis, Lua scripting, hotkeys, macros, bots and in-game overlays for buffs and cooldowns |
 
 ## 🧰 Skills
 
@@ -53,7 +54,7 @@ Designer, engineer and photographer from the Netherlands. I work across graphic 
 - **Web:** HTML, CSS, JavaScript, TypeScript, responsive and accessible front-end, basic web development, SQL and MySQL databases, full-stack work
 - **Desktop:** Python with PyQt6, WinUI 3 with C#, C
 - **Automation:** PowerShell, CMD, AutoHotkey, VBA for Excel and Office, Google Apps Script, browser scripts, userscripts, bots and macros
-- **Game and reverse engineering:** Cheat Engine (CT tables, Lua scripting), memory analysis, hotkeys and macros, packet analysis
+- **Game and reverse engineering:** Cheat Engine (CT tables, Lua scripting), memory scanning, pointer chains, code injection, function hooking, x86 assembly patching, packet analysis, hotkeys and macros
 - **Mobile and root:** Android bootloader unlocking, custom recovery, boot image patching, Magisk, Zygisk, LSPosed, Play Integrity, Linux-based root workflows (adb and fastboot)
 - **Hardware:** Arduino, sensors, 3D design and printing
 - **Systems:** Windows 11, WSL/Linux, self-hosted NAS, databases, Git and GitHub, Visual Studio Code
