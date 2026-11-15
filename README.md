@@ -37,7 +37,7 @@ Designer, engineer and photographer from the Netherlands. I work across graphic 
 | **2020 – now** | Rooting Android phones: multiple root methods, custom rooted builds across platforms |
 | **2018 – now** | Smart home: Google Apps Script, YAML automations, sensors, lights, cameras and security |
 | **2018 – 2020** | Arduino robot in C++: custom code, 3D-designed and printed chassis, painted and assembled |
-| **2016 – 2022** | Graphic design degree (communication and multimedia design) |
+| **2016 – 2022** | Graphic design degree (communication and multimedia design). Studied at ArtEZ Zwolle (University of the Arts), UI/UX design, basic front-end coding and Adobe XD prototyping and testing |
 | **2006 – now** | Web development: HTML, CSS, then modern front-end (responsive layouts, CSS variables, dark mode, ES modules, TypeScript) |
 | **2005 – 2011** | Private servers in C++ and Java, with HTML and MySQL websites |
 | **2005 – 2009** | Flash games and animations in ActionScript |
@@ -45,10 +45,10 @@ Designer, engineer and photographer from the Netherlands. I work across graphic 
 
 ## 🧰 Skills
 
-- **Design:** UI/UX, interface design, graphic design. Adobe Creative Cloud (all apps)
+- **Design:** UI/UX design, interface design, graphic design, Adobe Creative Cloud (all apps), Adobe XD for front-end prototyping and testing
 - **Photography:** portrait, product and everyday photography, editing and retouching
 - **CAD and BIM:** Autodesk Revit (families, nested families, Dynamo), AutoCAD (3D design and scripting), Vault Data Manager
-- **Web:** HTML, CSS, JavaScript, TypeScript, responsive and accessible front-end
+- **Web:** HTML, CSS, JavaScript, TypeScript, responsive and accessible front-end, basic web development
 - **Desktop:** Python with PyQt6, WinUI 3 with C#, C
 - **Automation:** PowerShell, CMD, AutoHotkey, VBA for Excel and Office, Google Apps Script, browser scripts
 - **Hardware:** Arduino, 3D design and printing, sensors
