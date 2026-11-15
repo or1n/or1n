@@ -16,26 +16,23 @@ Designer, engineer and photographer from the Netherlands. I work across graphic 
 
 ## 🛠 Current work
 
-- **Data manager and engineer**, and **business operations**
-- **Invoice builder:** web app with a live A4 preview, PDF export, Dutch/English and per-section typography. I'm moving my tools to the web so I can use them on every device.
-- **Revit and CAD automation:** families, nested families, and standard modular and smart building for projects
-- **3D printing:** designing parts, iterating on prototypes, printing and using them in real life
-- **Visual monitor toolkit (Python):** reusable screen monitoring and overlays for visual state checks, alerts and hotkey automation
+- **Modular document builder (JavaScript):** a general builder for invoices and other documents. Data and layout are separate, with live A4 preview, PDF export through print CSS, Dutch/English, light/dark theme and per-section typography. Next step: a Node.js/TypeScript API with a SQL database. Right now it runs in the browser and stores data in localStorage.
+- **Automated CV builder (next):** a web app that uses the same document engine, with templates, structured profile data and export
+- **Visual monitor toolkit (Python, PyQt6):** reusable screen monitoring and overlays with image matching, state checks, alerts and hotkey-driven automation
 - **Desktop apps:** WinUI 3 batch renamer, C# monitor dimming app, tray app for sound and renaming
 - **Userscripts:** YouTube quick navigation, filters for low-view and short videos, hiding Shorts
+- **Data management and engineering:** Revit and CAD automation with families, nested families and standard modular and smart building for projects, plus business operations
 
 ## 🔜 Next
 
-- **Automated CV builder:** a web app in the same style as the invoice builder
 - **Planning web app:** self-hosted on my own NAS and domain
 
 ## 🧭 Timeline
 
 | Period | What |
 |---|---|
-| **2026 – now** | Data management and engineering, business operations |
+| **2024 – now** | Data management and engineering, business operations. CAD and BIM: AutoCAD and Revit, Dynamo, families and nested families. Certified from basic to expert in Building Engineering and Building Services Engineering. 3D printing: designs, iterations and real-life parts |
 | **2018 – now** | Coding and automation: Python, C#, C, JavaScript, CSS, PowerShell and CMD scripts, VBA for Office, Adobe CC and Autodesk scripting. Desktop apps (WinUI 3, PyQt6), web apps, userscripts and AutoHotkey |
-| **2024 – now** | CAD and BIM: AutoCAD and Revit, Dynamo, families and nested families. Certified from basic to expert in Building Engineering and Building Services Engineering. 3D printing: designs, iterations and real-life parts |
 | **2020 – now** | Android rooting and mobile security research: bootloader unlocking, custom recovery, boot image patching, Magisk (systemless root, modules), Zygisk, LSPosed, Play Integrity. Linux-based root workflows with adb and fastboot |
 | **2018 – now** | Smart home: Google Apps Script, YAML automations, sensors, lights, cameras and security |
 | **2018 – 2020** | Arduino robot in C++: custom code, 3D-designed and printed chassis, painted and assembled. Wall detection, wheel movement, direction indicators and voice commands |
@@ -50,14 +47,12 @@ Designer, engineer and photographer from the Netherlands. I work across graphic 
 - **Design:** UI/UX design, interface design, graphic design, Adobe Creative Cloud (all apps), Adobe XD for front-end prototyping and testing
 - **Photography:** portrait, product and everyday photography, editing and retouching
 - **CAD and BIM:** Autodesk Revit (families, nested families, Dynamo, standard modular and smart building), AutoCAD (3D design and scripting), Vault Data Manager
-- **3D printing:** 3D modelling and design, iterative prototyping, printing and real-life application
-- **Web:** HTML, CSS, JavaScript, TypeScript, responsive and accessible front-end, basic web development, SQL and MySQL databases, full-stack work
-- **Desktop:** Python with PyQt6, WinUI 3 with C#, C
-- **Automation:** PowerShell, CMD, AutoHotkey, VBA for Excel and Office, Google Apps Script, browser scripts, userscripts, bots and macros
-- **Game and reverse engineering:** Cheat Engine (CT tables, Lua scripting), memory scanning, pointer chains, code injection, function hooking, x86 assembly patching, packet analysis, hotkeys and macros
+- **Web and front-end:** HTML, CSS, JavaScript, TypeScript, responsive and accessible front-end, Node.js (planned), SQL and MySQL
+- **Desktop and tooling:** Python with PyQt6, WinUI 3 with C#, C, PowerShell, CMD, AutoHotkey, VBA for Office, Google Apps Script
+- **Automation and reverse engineering:** userscripts, bots and macros, Cheat Engine (CT tables, Lua), memory scanning, function hooking, x86 assembly patching, packet analysis
 - **Mobile and root:** Android bootloader unlocking, custom recovery, boot image patching, Magisk, Zygisk, LSPosed, Play Integrity, Linux-based root workflows (adb and fastboot)
-- **Hardware:** Arduino, sensors, 3D design and printing
-- **Systems:** Windows 11, WSL/Linux, self-hosted NAS, databases, Git and GitHub, Visual Studio Code
+- **Hardware and 3D printing:** Arduino, sensors, smart home devices, 3D modelling, iterative prototyping and printing
+- **Systems:** Microsoft ecosystem since 1998 (Windows 98, ME, 2000, XP, Vista, 7, 8, 10 and 11, Office from 97 to Microsoft 365, Visual Studio), Linux and WSL, self-hosted NAS, home servers, web hosting, Git and GitHub
 
 ## 🗣 Languages I use
 
