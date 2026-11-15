@@ -19,6 +19,7 @@ Designer, engineer and photographer from the Netherlands. I work across graphic 
 - **Data manager and engineer**, and **business operations**
 - **Invoice builder:** web app with a live A4 preview, PDF export, Dutch/English and per-section typography. I'm moving my tools to the web so I can use them on every device.
 - **Revit and CAD automation:** families, nested families, and standard modular and smart building for projects
+- **3D printing:** designing parts, iterating on prototypes, printing and using them in real life
 - **Visual monitor toolkit (Python):** reusable screen monitoring and overlays for visual state checks, alerts and hotkey automation
 - **Desktop apps:** WinUI 3 batch renamer, C# monitor dimming app, tray app for sound and renaming
 - **Userscripts:** YouTube quick navigation, filters for low-view and short videos, hiding Shorts
@@ -32,31 +33,34 @@ Designer, engineer and photographer from the Netherlands. I work across graphic 
 
 | Period | What |
 |---|---|
-| **2026 – now** | Invoice builder (HTML, CSS, JavaScript) and data management. Business operations |
-| **2024 – now** | CAD and BIM: AutoCAD and Revit, Dynamo, families and nested families, Vault. Certifications from basic to expert in Building Engineering and Building Services Engineering |
-| **2020 – now** | Rooting Android phones: multiple root methods, custom rooted builds across platforms |
+| **2026 – now** | Data management and engineering, business operations |
+| **2024 – now** | CAD and BIM: AutoCAD and Revit, Dynamo, families and nested families. Certified from basic to expert in Building Engineering and Building Services Engineering. 3D printing: designs, iterations and real-life parts |
+| **2020 – now** | Android rooting and mobile security research: bootloader unlocking, custom recovery, boot image patching, Magisk (systemless root, modules), Zygisk, LSPosed, Play Integrity. Linux-based root workflows with adb and fastboot |
 | **2018 – now** | Smart home: Google Apps Script, YAML automations, sensors, lights, cameras and security |
-| **2018 – 2020** | Arduino robot in C++: custom code, 3D-designed and printed chassis, painted and assembled |
-| **2016 – 2022** | Graphic design degree (communication and multimedia design). Studied at ArtEZ Zwolle (University of the Arts), UI/UX design, basic front-end coding and Adobe XD prototyping and testing |
+| **2018 – 2020** | Arduino robot in C++: custom code, 3D-designed and printed chassis, painted and assembled. Wall detection, wheel movement, direction indicators and voice commands |
+| **2016 – 2022** | Graphic design degree (communication and multimedia design). Studied at ArtEZ Zwolle (University of the Arts): UI/UX design, basic front-end coding and Adobe XD prototyping and testing |
 | **2006 – now** | Web development: HTML, CSS, then modern front-end (responsive layouts, CSS variables, dark mode, ES modules, TypeScript) |
-| **2005 – 2011** | Private servers in C++ and Java, with HTML and MySQL websites |
-| **2005 – 2009** | Flash games and animations in ActionScript |
-| **2002 – 2013** | Game automation and reverse engineering: memory scanning, pointer chains, code injection, hooking, assembly patching, Cheat Engine Lua |
+| **2005 – 2011** | Private servers for classic MMORPGs: creating and editing multiple versions. SQL databases for accounts, login and rankings. Custom NPCs, items and mobs. Front-end and back-end (full stack) in C++, Java, HTML and MySQL |
+| **2005 – 2009** | Flash games: side-scrolling 2D action, survival and fighting games in ActionScript. Own sprites, and functions for walking, jumping, items, inventory, health and combat |
+| **2002 – 2013** | Game automation and reverse engineering: Cheat Engine CT tables and codes, finding and changing game values, hotkeys, macros, bots and in-game overlays for buffs and cooldowns |
 
 ## 🧰 Skills
 
 - **Design:** UI/UX design, interface design, graphic design, Adobe Creative Cloud (all apps), Adobe XD for front-end prototyping and testing
 - **Photography:** portrait, product and everyday photography, editing and retouching
-- **CAD and BIM:** Autodesk Revit (families, nested families, Dynamo), AutoCAD (3D design and scripting), Vault Data Manager
-- **Web:** HTML, CSS, JavaScript, TypeScript, responsive and accessible front-end, basic web development
+- **CAD and BIM:** Autodesk Revit (families, nested families, Dynamo, standard modular and smart building), AutoCAD (3D design and scripting), Vault Data Manager
+- **3D printing:** 3D modelling and design, iterative prototyping, printing and real-life application
+- **Web:** HTML, CSS, JavaScript, TypeScript, responsive and accessible front-end, basic web development, SQL and MySQL databases, full-stack work
 - **Desktop:** Python with PyQt6, WinUI 3 with C#, C
-- **Automation:** PowerShell, CMD, AutoHotkey, VBA for Excel and Office, Google Apps Script, browser scripts
-- **Hardware:** Arduino, 3D design and printing, sensors
-- **Systems:** Windows 11, WSL/Linux, self-hosted NAS, databases, rooted Android devices, Git and GitHub, Visual Studio Code
+- **Automation:** PowerShell, CMD, AutoHotkey, VBA for Excel and Office, Google Apps Script, browser scripts, userscripts, bots and macros
+- **Game and reverse engineering:** Cheat Engine (CT tables, Lua scripting), memory analysis, hotkeys and macros, packet analysis
+- **Mobile and root:** Android bootloader unlocking, custom recovery, boot image patching, Magisk, Zygisk, LSPosed, Play Integrity, Linux-based root workflows (adb and fastboot)
+- **Hardware:** Arduino, sensors, 3D design and printing
+- **Systems:** Windows 11, WSL/Linux, self-hosted NAS, databases, Git and GitHub, Visual Studio Code
 
 ## 🗣 Languages I use
 
-- **Currently:** Python, C#, C, JavaScript, TypeScript, HTML, CSS, PowerShell
+- **Currently:** Python, C#, C, JavaScript, TypeScript, HTML, CSS, PowerShell, CMD, SQL, Google Apps Script, YAML
 - **Earlier:** C++, Java, ActionScript, Assembler, Lua (Cheat Engine), VBA, AutoHotkey
 
 ## 🔒 Repositories
