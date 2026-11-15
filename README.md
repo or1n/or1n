@@ -7,7 +7,7 @@ Designer, engineer and photographer from the Netherlands. I work across graphic 
   <img src="https://img.shields.io/badge/CAD-certified%20%28basic%20to%20expert%29-2b6cb0" alt="CAD certified">
   <img src="https://img.shields.io/badge/Revit-families%20%26%20Dynamo-0696d7" alt="Revit and Dynamo">
   <img src="https://img.shields.io/badge/Adobe-Creative%20Cloud-da1f26" alt="Adobe Creative Cloud">
-  <img src="https://img.shields.io/badge/Photography-photographer-1f1f1f?logo=capture-one&logoColor=white" alt="Photography">
+  <img src="https://img.shields.io/badge/Photography-Canon/ Nikon/ Lyca/ Pentax/ Sony-1f1f1f?logo=capture-one&logoColor=white" alt="Photography">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
